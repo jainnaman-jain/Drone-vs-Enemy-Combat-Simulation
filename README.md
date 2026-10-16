@@ -113,7 +113,7 @@ The demo shows the main menu, drone controls, combat, pause menu, mission failur
 
 ## GitHub Repository
 
-**Repository URL:** To be added after publishing the project to GitHub.
+GitHub Repository: https://github.com/jainnaman-jain/Drone-vs-Enemy-Combat-Simulation
 
 ## Credits
 
